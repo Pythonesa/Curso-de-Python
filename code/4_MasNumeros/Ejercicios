@@ -1,0 +1,10 @@
+1) Resolver una ecuación de segundo grado (ax² + bx + c = 0) pidiendo al usuario que ingrese los valores para a, b y c; mostrar los 2 resultados posibles.
+2) Calcular el área de un círculo a partir del radio ingresado por el usuario, mostrar el resultado con 2 cifras decimales.
+3) Calcular el volumen de una esfera a partir del radio ingresado por el usuario, mostrar el resultado con 2 cifras decimales.
+4) Calcular el área de un triángulo a partir de la base y altura que ingrese el usuario, mostrar el resultado con 2 cifras decimales.
+5) Caclular un ángulo de un triángulo a partir de los otros dos ingresados por el usuario.
+6) Pedir una velocidad al usuario en km/h y mostrarla convertida a cm/s.
+7) En un juego, un jugador tira el dado y se mueve por el tablero 2 veces el número que le sale. Pedir al jugador el número de su casilla de inicio y mostrar el resultado del dado (del 1 al 6) y el número de casillero donde quedará al moverse.
+8) Pedir al usuario que ingrese una cantidad de horas, minutos y segundos; mostrar la cantidad de milisegundos.
+9) Una persona debe tomar medio litro de agua cada hora, pedir al usuario que ingrese la cantidad de horas y mostrar cuantos litros de agua debe tomar.
+10) Existe una formula para calcular el rango de edades recomendado para una cita (para mayores de 14 años). El mínimo se calcula como la mitad de la edad más 7, y el máximo como el doble de la edad menos 7. Pedir la edad al usuario y mostrarle el rango de edades para sus citas (redondeando al entero más cercano).
