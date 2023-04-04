@@ -1,10 +1,10 @@
 1) Pida al usuario dos números enteros y muestre el resultado de su suma, resta y multiplicación.
 2) Pida al usuario dos números y muestre el resultado de su división, división entera y resto.
-3) Pida al usuario que ingrese un texto y muestre cuantas letras y palabras contiene.
+3) Pida al usuario que ingrese un texto y muestre cuantos caracteres y palabras contiene.
 4) Pida al usuario que ingrese un texto, luego pida que ingrese una palabra del texto que desee cambiar y la palabra por la cual desea cambiarla; muestre en pantalla el texto modificado.
 5) Pida al usuario que ingrese la ruta de un recurso samba (formato: //1.1.1.1/dir/hola o //samba-server/dir/hola) y muestre por separado el host(1.1.1.1 o samba-server) de el path (/dir/hola).
 6) Pida al usuario un número entero (n) y muestre el resultado de n + nn + nnn.
-7) Pida al usuario que ingrese una palabra y muestr el resultado de multiplicar el número total de caracteres por el número total de vocales.
+7) Pida al usuario que ingrese una palabra y muestre el resultado de multiplicar el número total de caracteres por el número total de vocales.
 8) Cree un programa que cuente ovejas para dormir, pida al usuario que ingrese un número entero y muestre en consola el texto 'oveja...' las veces que haya ingresado el usuario.
 9) Pida al usuario que ingrese un texto y muestre en pantalla el texto sin el primer y el último caracter.
 10) Pida al usuario que ingrese un número entero (n) y muestre en pantalla el resultado de n por 5 elevado al número de dígitos de n.
