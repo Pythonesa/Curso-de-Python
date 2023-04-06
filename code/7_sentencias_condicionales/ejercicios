@@ -1,0 +1,7 @@
+1) Pedir al usuario una edad humana y mostrar el equivalente en años perro y años gato. (Años perro: 15 años para el primer año, +9 para el segundo, +5 para los demás. Años gato: 15 años para el primero, +9 para el segundo, +4 para los demás.)
+2) Pedir al usuario que ingrese un año y decirle si es o no un año bisiesto. (Un año es bisiesto si es divisible entre 4 y no es divisible entre 100, o si es divisible entre 400.)
+3) Escribir un programa que adivine un personaje en base a tres preguntas (debe incluír un total de 8 personajes, uno por cada combinación).
+4) Pedir al usuario dos números y una operación matemática (suma, resta, multiplicación o división) y mostrar el resultado de la operación elegida (si la operación elegida no es una de las opciones, mostrar un mensaje de error).
+5) Crear un programa donde el usuario pueda jugar piedra, papel o tijera contra la computadora.
+6) Pedir al usuario que ingrese su estado de humor y mostrar un emoji que lo represente y un emoji de alerta si el estado de humor no se encuentra en la lista.
+
