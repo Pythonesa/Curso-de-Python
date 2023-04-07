@@ -1,0 +1,7 @@
+1) Escribir un programa que imprima todos los múltiplos de un número menores a un valor dado (utilizando while).
+2) Pida al usuario una palabra y muestre cuantas vocales tiene (utilizando for).
+3) Escribir un programa que imprima todos los números del 1 al 10 (utilizando while).
+4) Utilizando la función range() y la sentencia for imprima los números impares del 1 al 10.
+5) Utilizando for y range() imprima un texto 3 veces.
+6) Utilizando bucles for anidados muestre en pantalla las tablas de multiplicar.
+7) Escribir un programa que pida al usuario su nombre y apellido en formato título y repita la petición hasta que el formato sea correcto.
