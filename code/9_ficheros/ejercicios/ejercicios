@@ -1,0 +1,5 @@
+1) Crear un programa que escriba lo que entre el usuario en la consola (el usuario puede escribir una frase y luego el programa deberá preguntarle si desea seguir escribiendo o no) en un archivo llamado como desee el usuario, si el fichero existe sobre escribirlo.
+2) Crear un programa que dado el path y nombre de un archivo devuelva la cantidad de líneas, palabras y bytes que hay en el fichero. (número de bytes de un string llamado texto: len(texto.enconde('utf-8)) )
+3) Crear un programa que muestre en consola el texto de un archivo y pregunte al usuario si desea añadir más entradas, en caso de desearlo debe poder ingresar las entradas que desee y escribirlas en el fichero.
+4) Agregue al juego del ahorcado (que está disponible en github de cuando lo hicimos en stream) un log que deberá añadir por cada palabra que se adivine o no algo así: "Palabra fue adivinada/no adivinada".
+5) Cree un programa que muestre las palabras que han salido en el ahorcado (leyendo el archivo de logs del ejercicio anterior) y cuantas veces han sido adivinadas y falladas.
