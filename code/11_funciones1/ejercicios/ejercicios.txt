@@ -1,0 +1,3 @@
+1) Pide al usuario que ingrese su nombre y crea una función que devuelva una lista con las letras del nombre en mayúsculas y muestralas por pantalla una por línea.
+2) Crear una calculadora, pidiendo al usuario que ingrese dos números y la operación que desea realizar, mostrar el resultado y preguntar si desea realizar otra operación (cada operación deberá ser calculada en una función lambda)
+3) Crear un programa que dado un número n ingresado por el usuario imprima n números de la sucesión de fibonacci (implementar una función recursiva para fibonacci y otra con un for utilizando un range para cada número).
