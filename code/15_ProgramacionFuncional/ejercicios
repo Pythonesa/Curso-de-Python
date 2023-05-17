@@ -1,0 +1,7 @@
+1) Crear una lista de diccionarios que contengan el nombre y edad de varias personas.
+   Sumar las edades de todas las personas de la lista.
+   Mostrar el promedio de las edades.
+
+2) Añadir al ejercicio anterior el sexo de la persona (F o M).
+   Permitir que el usuario ingrese el sexo de quienes quiere conocer la media de edades.
+   Mostrar el promedio del sexo seleccionado.
