@@ -1,0 +1,7 @@
+Crear una clase Automovil, la cantidad de ruedas será un atributo de clase,
+y como atributos de instancia: marca, modelo, motor, potencia, velocidad_maxima, 
+color, puertas y velocidad inicial que será de 0;
+sus métodos: acelerar, reducir la velocidad y pintar.
+Cuando se modifique la velocidad debe controlarse que su valor este entre 0 y la máxima.
+En otro archivo utilizar la clase para crear varios objetos 
+y llamar sus métodos.
